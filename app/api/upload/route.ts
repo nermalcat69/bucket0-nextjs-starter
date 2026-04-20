@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { PutObjectCommand, ListObjectsV2Command, DeleteObjectsCommand } from '@aws-sdk/client-s3'
 import { s3, BUCKET } from '@/lib/s3'
 
-const MAX_SIZE = 1 * 1024 * 1024 // 1 MB
+const MAX_SIZE = 5 * 1024 * 1024 // 5 MB
 
 export async function POST(req: NextRequest) {
   try {
