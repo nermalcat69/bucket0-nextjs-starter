@@ -55,7 +55,7 @@ export default function HomePage() {
             S3-compatible storage via{' '}
             <a href="https://bucket0.com" target="_blank" rel="noopener noreferrer"
               className="text-primary underline underline-offset-2 hover:opacity-80 transition-opacity">Bucket0</a>.{' '}
-            <a href="https://github.com/nermalcat69/nextjs-starter" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/Bucket0-com/buckt0-nextjs-starter" target="_blank" rel="noopener noreferrer"
               className="text-primary underline underline-offset-2 hover:opacity-80 transition-opacity">Github Repository</a>
           </p>
         </div>
