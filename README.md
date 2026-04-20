@@ -29,8 +29,8 @@ BUCKET_NAME=your_bucket_name
 ### 5. Run the dev server
 
 ```bash
-pnpm install
-pnpm dev
+bun i
+bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
