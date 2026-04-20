@@ -1,5 +1,9 @@
 # Next.js x Bucket0 Starter
 
+<img width="2000" height="1050" alt="main" src="https://github.com/user-attachments/assets/7ad9670c-3cc7-4409-8ddc-f673da489c1f" />
+
+<br />
+
 A minimal file upload starter using Next.js and Bucket0 for S3-compatible object storage.
 
 ## Setup
@@ -9,6 +13,11 @@ A minimal file upload starter using Next.js and Bucket0 for S3-compatible object
 Go to [bucket0.com](https://bucket0.com) and sign up. Once logged in, you will land on the dashboard.
 
 ### 2. Get your S3 API credentials
+
+
+<img width="2590" height="1194" alt="dash" src="https://github.com/user-attachments/assets/9b8b4206-ffa4-471f-9a9d-6fc98c5f5b32" />
+
+<br />
 
 Navigate to **S3 API** in the sidebar. You will find your `ACCESS_ID` and `SECRET_KEY` here. Copy both.
 
